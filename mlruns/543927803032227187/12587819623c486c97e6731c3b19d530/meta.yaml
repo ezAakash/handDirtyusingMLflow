@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/543927803032227187/12587819623c486c97e6731c3b19d530/artifacts
+end_time: 1742885445937
+entry_point_name: ''
+experiment_id: '543927803032227187'
+lifecycle_stage: active
+run_id: 12587819623c486c97e6731c3b19d530
+run_name: grandiose-snake-86
+run_uuid: 12587819623c486c97e6731c3b19d530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885443713
+status: 3
+tags: []
+user_id: deadeye

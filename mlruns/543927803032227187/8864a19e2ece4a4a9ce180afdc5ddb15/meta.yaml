@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/543927803032227187/8864a19e2ece4a4a9ce180afdc5ddb15/artifacts
+end_time: 1742885416480
+entry_point_name: ''
+experiment_id: '543927803032227187'
+lifecycle_stage: active
+run_id: 8864a19e2ece4a4a9ce180afdc5ddb15
+run_name: enthused-pug-806
+run_uuid: 8864a19e2ece4a4a9ce180afdc5ddb15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885414175
+status: 3
+tags: []
+user_id: deadeye

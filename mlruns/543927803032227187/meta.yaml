@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/543927803032227187
+creation_time: 1742885229845
+experiment_id: '543927803032227187'
+last_update_time: 1742885229845
+lifecycle_stage: active
+name: Wine-Classification-random-forest

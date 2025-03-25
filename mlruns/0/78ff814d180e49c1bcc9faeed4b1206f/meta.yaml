@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/78ff814d180e49c1bcc9faeed4b1206f/artifacts
+end_time: 1742881366318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78ff814d180e49c1bcc9faeed4b1206f
+run_name: rare-trout-210
+run_uuid: 78ff814d180e49c1bcc9faeed4b1206f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742881365613
+status: 4
+tags: []
+user_id: deadeye

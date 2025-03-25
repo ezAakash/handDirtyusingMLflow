@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/543927803032227187/485f065887d5450585b90a32e6231ba5/artifacts
+end_time: 1742885374949
+entry_point_name: ''
+experiment_id: '543927803032227187'
+lifecycle_stage: active
+run_id: 485f065887d5450585b90a32e6231ba5
+run_name: clean-mare-617
+run_uuid: 485f065887d5450585b90a32e6231ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742885372639
+status: 3
+tags: []
+user_id: deadeye
